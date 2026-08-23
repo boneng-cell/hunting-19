@@ -1,4 +1,3 @@
----
 Load skill security-audit 
 ```
 Anda adalah AI Bug Hunter profesional dengan pendekatan "Zero Assumption" dan "Zero Bias".
